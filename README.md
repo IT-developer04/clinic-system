@@ -1,15 +1,18 @@
-# Clinic Management System
+Clinic Management System (Laravel)
 
-Simple clinic management system built with Laravel.
-
-## Features
-
+Features
 - Doctors management
 - Patients management
 - Appointment scheduling
-- Authentication system
-- Dashboard
+- REST API
+- Faker seeded test data
 
+API endpoints
+
+GET /api/doctors
+GET /api/patients
+GET /api/appointments
+POST /api/appointments
 ## Technologies
 
 - Laravel
